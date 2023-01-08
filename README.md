@@ -23,4 +23,4 @@ The data are inserted in a 2-dimensional data structure, namely a dataframe of t
 The data analysis is mostly conducted according to the age groups that were determined from one of the demographical questions of the questionnaire.
 One or more questions were combined in order to calculate percentages of participants, according to the research inquiries of the investigator.
 
-(The research questions are in greek language. The dataset is not provided here, because it is part of unpublished research work.)
+(The research questions are in Greek language. The dataset is not provided here, because it is part of unpublished research work.)
