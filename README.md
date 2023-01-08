@@ -4,7 +4,7 @@ Code for the analysis of questionnaire data for academic research work, concerni
 
 - Implementation language: Python.
 - Libraries used: pandas, matplotlib, seaborn.
-- Dataset: 2-dimensional matrix of 25 questions, answered by 482 participants. Checkbox question options are separated by commas.
+- Dataset: 2-dimensional matrix of 25 questions, answered by 482 participants. Checkbox question options are separated by comma.
 
 - Type of data imput -
 The questionnaire includes closed-ended questions of the following types: dichotomous, multiple-choice and checkbox.
